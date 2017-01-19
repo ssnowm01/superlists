@@ -1,0 +1,108 @@
+1484742516733	geckodriver	INFO	Listening on 127.0.0.1:53673
+1484742518546	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.1qGu1FHlXg2L
+1484742518546	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484742519014	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53680
+1484742525608	Marionette	INFO	Listening on port 53680
+1484765505647	geckodriver	INFO	Listening on 127.0.0.1:54078
+1484765507631	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.hDGKgIxoyMxE
+1484765507646	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484765508288	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54085
+1484765510410	Marionette	INFO	Listening on port 54085
+[Child 1032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1484765563836	geckodriver	INFO	Listening on 127.0.0.1:54113
+1484765565870	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.Qq6gMsdDc74O
+1484765565870	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484765565949	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54119
+1484765567715	Marionette	INFO	Listening on port 54119
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 10096] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10096] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+onette on localhost:54239
+1484766781843	Marionette	INFO	Listening on port 54239
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1484769235466	geckodriver	INFO	Listening on 127.0.0.1:54616
+1484769237293	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.FNjYypP9Atj1
+1484769237293	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484769237853	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54623
+1484769240236	Marionette	INFO	Listening on port 54623
+[Child 2576] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1484770052100	geckodriver	INFO	Listening on 127.0.0.1:54736
+1484770053884	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.y1XxWU1dVkXn
+1484770053884	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484770053915	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54742
+1484770056586	Marionette	INFO	Listening on port 54742
+[Child 12064] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484787651655	geckodriver	INFO	Listening on 127.0.0.1:51660
+1484787653286	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.p6yQI2jHC1D5
+1484787653303	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484787653720	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51667
+1484787656684	Marionette	INFO	Listening on port 51667
+[Child 11108] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484789143957	geckodriver	INFO	Listening on 127.0.0.1:49842
+1484789145341	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.WrurPZWIOG59
+1484789145385	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484789146363	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49848
+1484789211916	Marionette	INFO	Listening on port 49848
+[Child 8592] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484793168495	geckodriver	INFO	Listening on 127.0.0.1:51710
+1484793170452	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.mEB8jlHXqdgr
+1484793170461	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484793170786	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51717
+1484793174072	Marionette	INFO	Listening on port 51717
+[Child 9904] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484793553646	geckodriver	INFO	Listening on 127.0.0.1:51806
+1484793555641	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.EgMxwOW8BzX7
+1484793555650	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484793555701	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51812
+1484793558559	Marionette	INFO	Listening on port 51812
+[Child 10268] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1484794655019	geckodriver	INFO	Listening on 127.0.0.1:49867
+1484794656304	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.RRFmpB1ljwjl
+1484794656319	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484794656602	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49874
+1484794671075	Marionette	INFO	Listening on port 49874
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 4948] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1484795467238	geckodriver	INFO	Listening on 127.0.0.1:50193
+1484795469224	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.UQe8qc6J7LF4
+1484795469224	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1484795469287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50199
+1484795472312	Marionette	INFO	Listening on port 50199
+[Child 10392] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
