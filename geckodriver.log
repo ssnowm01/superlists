@@ -106,3 +106,440 @@ Full stack:
 1484795469287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50199
 1484795472312	Marionette	INFO	Listening on port 50199
 [Child 10392] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485106354777	geckodriver	INFO	Listening on 127.0.0.1:50010
+1485106356567	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.s5DLRhKczpzM
+1485106356567	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485106356599	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50017
+1485106358162	Marionette	INFO	Listening on port 50017
+[Child 10712] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485131137610	geckodriver	INFO	Listening on 127.0.0.1:50237
+1485131139462	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.UFI2cFa7hrIx
+1485131139462	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485131139510	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50244
+1485131141727	Marionette	INFO	Listening on port 50244
+[Child 4320] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485131422493	geckodriver	INFO	Listening on 127.0.0.1:50310
+1485131424494	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.s1k92Baki33F
+1485131424494	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485131424532	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50316
+1485131427158	Marionette	INFO	Listening on port 50316
+[Child 4404] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485131627744	geckodriver	INFO	Listening on 127.0.0.1:50357
+1485131629771	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.3FaS443fWsxC
+1485131629771	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485131629818	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50363
+1485131631928	Marionette	INFO	Listening on port 50363
+[Child 10692] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485131778257	geckodriver	INFO	Listening on 127.0.0.1:50401
+1485131780259	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.qAxuhdueRV24
+1485131780275	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485131780321	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50407
+1485131782436	Marionette	INFO	Listening on port 50407
+[Child 6336] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485131932907	geckodriver	INFO	Listening on 127.0.0.1:50450
+1485131934911	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.PPagoU6Rjqwi
+1485131934911	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485131934959	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50456
+1485131937233	Marionette	INFO	Listening on port 50456
+[Child 9696] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485132068275	geckodriver	INFO	Listening on 127.0.0.1:50493
+1485132070278	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.sMZ2GbRZOqNF
+1485132070294	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485132070341	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50499
+1485132072984	Marionette	INFO	Listening on port 50499
+[Child 8456] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485132180728	geckodriver	INFO	Listening on 127.0.0.1:50536
+1485132182708	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.5CKqbjHDgfGX
+1485132182716	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485132182765	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50542
+1485132185285	Marionette	INFO	Listening on port 50542
+[Child 10308] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485133479022	geckodriver	INFO	Listening on 127.0.0.1:50683
+1485133481024	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.lKCUSba6yQZX
+1485133481039	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485133481089	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50691
+1485133483908	Marionette	INFO	Listening on port 50691
+[Child 11136] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485133661754	geckodriver	INFO	Listening on 127.0.0.1:51071
+1485133663750	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.dgX1D7gYOX5E
+1485133663760	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485133663810	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51077
+1485133666623	Marionette	INFO	Listening on port 51077
+[Child 10824] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485134104396	geckodriver	INFO	Listening on 127.0.0.1:51136
+1485134106391	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.jrSlb7AObvVa
+1485134106399	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485134106787	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51142
+1485134110372	Marionette	INFO	Listening on port 51142
+[Child 7348] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485136500623	geckodriver	INFO	Listening on 127.0.0.1:51513
+1485136502589	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.444Hcbjxt5qG
+1485136502610	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485136502691	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51520
+1485136507432	Marionette	INFO	Listening on port 51520
+[Child 3920] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485136740751	geckodriver	INFO	Listening on 127.0.0.1:51583
+1485136742701	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.9s7JtLrR9ArG
+1485136742731	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485136742800	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51589
+1485136746882	Marionette	INFO	Listening on port 51589
+[Child 9268] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485136830771	geckodriver	INFO	Listening on 127.0.0.1:51627
+1485136832733	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.y9juCkyTXfkO
+1485136832745	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485136832801	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51633
+1485136837339	Marionette	INFO	Listening on port 51633
+[Child 6780] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485137157411	geckodriver	INFO	Listening on 127.0.0.1:51683
+1485137159388	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.d64o667cbGUr
+1485137159400	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485137159463	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51689
+1485137163453	Marionette	INFO	Listening on port 51689
+[Child 8740] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485203867568	geckodriver	INFO	Listening on 127.0.0.1:52816
+1485203869475	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.Z1uY2YPK58Sy
+1485203869490	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485203869615	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52824
+1485203873033	Marionette	INFO	Listening on port 52824
+[Child 2352] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485205088098	geckodriver	INFO	Listening on 127.0.0.1:52988
+1485205090010	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.FNSzE1PsOVpa
+1485205090013	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485205090030	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52994
+1485205091120	Marionette	INFO	Listening on port 52994
+[Child 7672] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485205275490	geckodriver	INFO	Listening on 127.0.0.1:53028
+1485205277491	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.P8dT0dbI3IvO
+1485205277491	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485205277506	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53034
+1485205278708	Marionette	INFO	Listening on port 53034
+[Child 1948] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485205632662	geckodriver	INFO	Listening on 127.0.0.1:53074
+1485205634646	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.B6iRGbd0Y6Cm
+1485205634646	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485205634662	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53080
+1485205635809	Marionette	INFO	Listening on port 53080
+[Child 4960] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485205807131	geckodriver	INFO	Listening on 127.0.0.1:59764
+1485205809115	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.DDmwmpgLKq5K
+1485205809115	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485205809131	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59770
+1485205810296	Marionette	INFO	Listening on port 59770
+[Child 9352] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485206534896	geckodriver	INFO	Listening on 127.0.0.1:59859
+1485206536897	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.zEnUjYOwLtFy
+1485206536897	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485206536913	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59865
+1485206538820	Marionette	INFO	Listening on port 59865
+[Child 1740] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485207329443	geckodriver	INFO	Listening on 127.0.0.1:59982
+1485207331412	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.fvpUjPv3owjp
+1485207331412	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485207331818	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59988
+1485207334025	Marionette	INFO	Listening on port 59988
+[Child 5268] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485207602475	geckodriver	INFO	Listening on 127.0.0.1:51488
+1485207604476	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.nCpzWuNqv3k7
+1485207604476	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485207604507	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51495
+1485207605803	Marionette	INFO	Listening on port 51495
+[Child 6308] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485208307536	geckodriver	INFO	Listening on 127.0.0.1:51566
+1485208309568	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.DzqERli7zVyM
+1485208309568	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485208309584	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51572
+1485208310696	Marionette	INFO	Listening on port 51572
+[Child 6748] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485216942987	geckodriver	INFO	Listening on 127.0.0.1:52043
+1485216944613	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.9KwsYPvKh3PC
+1485216944629	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485216945004	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52051
+1485216948390	Marionette	INFO	Listening on port 52051
+[Child 6216] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485218931455	geckodriver	INFO	Listening on 127.0.0.1:52498
+1485218933442	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.kdx4VTNnfymG
+1485218933442	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485218933558	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52504
+1485218936683	Marionette	INFO	Listening on port 52504
+[Child 6348] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485222296177	geckodriver	INFO	Listening on 127.0.0.1:52812
+1485222298166	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.hLr3bKVp5P6i
+1485222298174	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485222298430	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52819
+1485222301371	Marionette	INFO	Listening on port 52819
+[Child 6312] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485223211266	geckodriver	INFO	Listening on 127.0.0.1:52981
+1485223213283	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.0lBChXVG528R
+1485223213283	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485223213358	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52987
+1485223216225	Marionette	INFO	Listening on port 52987
+[Child 10852] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485225160491	geckodriver	INFO	Listening on 127.0.0.1:53362
+1485225162476	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.g6Jju1MevuHi
+1485225162492	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485225162554	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53368
+1485225165775	Marionette	INFO	Listening on port 53368
+[Child 5400] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485305605420	geckodriver	INFO	Listening on 127.0.0.1:54483
+1485305607190	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.11qpzxoOvGQc
+1485305607198	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485305607616	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54490
+1485305613202	Marionette	INFO	Listening on port 54490
+[Child 6528] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485306584505	geckodriver	INFO	Listening on 127.0.0.1:54803
+1485306586427	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.8P9b3hTlY9gE
+1485306586427	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485306586490	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54809
+1485306590046	Marionette	INFO	Listening on port 54809
+[Child 7656] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485306841571	geckodriver	INFO	Listening on 127.0.0.1:54860
+1485306843474	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.uJLOCdko9jdQ
+1485306843474	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485306843537	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54866
+1485306847419	Marionette	INFO	Listening on port 54866
+[Child 6156] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485308771777	geckodriver	INFO	Listening on 127.0.0.1:55616
+1485308773717	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.qTRA8e1ad6p7
+1485308773727	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485308773792	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55622
+1485308777404	Marionette	INFO	Listening on port 55622
+[Child 4900] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485309878284	geckodriver	INFO	Listening on 127.0.0.1:56116
+1485309880193	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.QaAhBUKzqM47
+1485309880201	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485309880556	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56123
+1485309884521	Marionette	INFO	Listening on port 56123
+[Child 11652] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485309927588	geckodriver	INFO	Listening on 127.0.0.1:56161
+1485309929541	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.4MMIur5iuTUL
+1485309929553	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485309929616	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56167
+1485309933594	Marionette	INFO	Listening on port 56167
+[Child 5060] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485310695395	geckodriver	INFO	Listening on 127.0.0.1:56250
+1485310697297	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.bkqGI49Em6ee
+1485310697309	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485310697378	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56256
+1485310701049	Marionette	INFO	Listening on port 56256
+[Child 10500] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485310987682	geckodriver	INFO	Listening on 127.0.0.1:56308
+1485310989667	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.7iSlaUxMSyvv
+1485310989675	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485310989734	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56314
+1485310993008	Marionette	INFO	Listening on port 56314
+[Child 6960] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485311637076	geckodriver	INFO	Listening on 127.0.0.1:56439
+1485311639079	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.LyqvyZ6xxhHT
+1485311639088	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485311639157	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56445
+1485311642304	Marionette	INFO	Listening on port 56445
+[Child 2820] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485313224588	geckodriver	INFO	Listening on 127.0.0.1:49920
+1485313226297	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.N5JSU6P8HI8E
+1485313226297	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485313226406	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49926
+1485313235073	Marionette	INFO	Listening on port 49926
+[Child 10060] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485313826845	geckodriver	INFO	Listening on 127.0.0.1:50138
+1485313828838	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.VbAnBrf1UNZv
+1485313828838	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485313829106	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50145
+1485313831740	Marionette	INFO	Listening on port 50145
+[Child 1760] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485313933953	geckodriver	INFO	Listening on 127.0.0.1:50183
+1485313935955	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.tSbbNOO60E26
+1485313935955	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485313936002	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50190
+1485313938654	Marionette	INFO	Listening on port 50190
+[Child 11664] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485314669987	geckodriver	INFO	Listening on 127.0.0.1:50259
+1485314671974	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.f2RAaUxHpwza
+1485314671974	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485314672052	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50265
+1485314674652	Marionette	INFO	Listening on port 50265
+[Child 10760] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485314910298	geckodriver	INFO	Listening on 127.0.0.1:50304
+1485314912286	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.AcCXVZmQ4SdN
+1485314912286	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485314912348	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50310
+1485314915155	Marionette	INFO	Listening on port 50310
+[Child 1256] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485315336042	geckodriver	INFO	Listening on 127.0.0.1:50380
+1485315338030	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.3souMIAxfhxo
+1485315338038	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485315338088	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50387
+1485315340953	Marionette	INFO	Listening on port 50387
+[Child 3252] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485316522132	geckodriver	INFO	Listening on 127.0.0.1:50489
+1485316524119	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.b1UFQcgzjI0k
+1485316524127	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485316524181	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50495
+1485316526881	Marionette	INFO	Listening on port 50495
+[Child 10552] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485316623522	geckodriver	INFO	Listening on 127.0.0.1:50529
+1485316625509	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.D6ldoNjtKYeW
+1485316625509	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485316625571	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50535
+1485316628260	Marionette	INFO	Listening on port 50535
+[Child 5040] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485349164519	geckodriver	INFO	Listening on 127.0.0.1:52421
+1485349166489	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.GbjMhtgSwZOX
+1485349166489	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485349166543	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52428
+1485349167988	Marionette	INFO	Listening on port 52428
+[Child 7876] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485390890657	geckodriver	INFO	Listening on 127.0.0.1:52961
+1485390892339	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.MEFdRSGpLk1O
+1485390892343	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485390893474	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52968
+1485390906905	Marionette	INFO	Listening on port 52968
+[Child 7220] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485391208772	geckodriver	INFO	Listening on 127.0.0.1:53022
+1485391210689	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.XToXqFq7RHJF
+1485391210758	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485391210821	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53028
+1485391212345	Marionette	INFO	Listening on port 53028
+[Child 8620] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485391649056	geckodriver	INFO	Listening on 127.0.0.1:53101
+1485391651075	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.VGpf6Y9Hgdh1
+1485391651075	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485391651139	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53107
+1485391653445	Marionette	INFO	Listening on port 53107
+[Child 7564] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485392023231	geckodriver	INFO	Listening on 127.0.0.1:53152
+1485392025270	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.Xlwkj4vLSjpk
+1485392025285	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485392025317	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53158
+1485392026820	Marionette	INFO	Listening on port 53158
+[Child 11084] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485393001588	geckodriver	INFO	Listening on 127.0.0.1:53273
+1485393003611	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.7bKPY8BSK1wY
+1485393003611	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485393003658	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53279
+1485393005182	Marionette	INFO	Listening on port 53279
+[Child 8952] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485393159118	geckodriver	INFO	Listening on 127.0.0.1:53331
+1485393161124	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.wkitDjWzBr6L
+1485393161140	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485393161218	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53337
+1485393162996	Marionette	INFO	Listening on port 53337
+[Child 8676] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485394065476	geckodriver	INFO	Listening on 127.0.0.1:53429
+1485394067494	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.u95cV23HFaUz
+1485394067494	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485394067541	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53435
+1485394069132	Marionette	INFO	Listening on port 53435
+[Child 5684] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485394306172	geckodriver	INFO	Listening on 127.0.0.1:53480
+1485394308058	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.dqagOb0CXLeo
+1485394308074	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485394308158	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53486
+1485394310283	Marionette	INFO	Listening on port 53486
+[Child 11372] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485394406779	geckodriver	INFO	Listening on 127.0.0.1:53521
+1485394408781	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.TTBUtwx9wumy
+1485394408785	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485394408832	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53527
+1485394410984	Marionette	INFO	Listening on port 53527
+[Child 7172] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485394738434	geckodriver	INFO	Listening on 127.0.0.1:53556
+1485394740424	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.DxNh4dHpSSaf
+1485394740428	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485394740853	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53563
+1485394742725	Marionette	INFO	Listening on port 53563
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 11732] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1485395599425	geckodriver	INFO	Listening on 127.0.0.1:53621
+1485395601443	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.jmLJdQKXGR4S
+1485395601443	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485395601512	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53627
+1485395603575	Marionette	INFO	Listening on port 53627
+[Child 8360] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485397019014	geckodriver	INFO	Listening on 127.0.0.1:53769
+1485397021032	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.zkKeR9niqiCa
+1485397021032	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485397021079	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53775
+1485397022930	Marionette	INFO	Listening on port 53775
+[Child 6412] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485397186310	geckodriver	INFO	Listening on 127.0.0.1:53799
+1485397188257	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.6nDmJBUEW0JF
+1485397188257	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485397188310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53805
+1485397190326	Marionette	INFO	Listening on port 53805
+[Child 6752] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485811544578	geckodriver	INFO	Listening on 127.0.0.1:55536
+1485811546312	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.9cPJ4T97mpSe
+1485811546312	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485811546375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55543
+1485811547940	Marionette	INFO	Listening on port 55543
+1485811553262	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 9664] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485811647242	geckodriver	INFO	Listening on 127.0.0.1:55561
+1485811649259	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.AUBWmninx4BC
+1485811649259	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485811649321	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55567
+1485811651064	Marionette	INFO	Listening on port 55567
+1485811654640	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 2080] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485813156334	geckodriver	INFO	Listening on 127.0.0.1:55834
+1485813158350	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.Bx8BvDyUdfBD
+1485813158350	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485813158834	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55840
+1485813160445	Marionette	INFO	Listening on port 55840
+1485813163981	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 3788] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485815445092	geckodriver	INFO	Listening on 127.0.0.1:55988
+1485815447079	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.cAxRBGLj8L9L
+1485815447079	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485815447126	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55995
+1485815448488	Marionette	INFO	Listening on port 55995
+1485815452607	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 4508] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485823712099	geckodriver	INFO	Listening on 127.0.0.1:56809
+1485823713771	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.jj6iieDtE52e
+1485823713771	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485823714083	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56818
+1485823717311	Marionette	INFO	Listening on port 56818
+1485823728494	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 7716] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485824905489	geckodriver	INFO	Listening on 127.0.0.1:56932
+1485824907490	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.Lu9MkZf7FED3
+1485824907490	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485824907537	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56938
+1485824910324	Marionette	INFO	Listening on port 56938
+1485824917987	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 808] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485825794178	geckodriver	INFO	Listening on 127.0.0.1:57021
+1485825796147	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.59Peve3b0g30
+1485825796147	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485825796241	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57027
+1485825799082	Marionette	INFO	Listening on port 57027
+1485825806267	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 4756] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485825965880	geckodriver	INFO	Listening on 127.0.0.1:57072
+1485825967853	mozprofile::profile	INFO	Using profile path C:\Users\ssnowm01\AppData\Local\Temp\rust_mozprofile.wKabXhG1qk8U
+1485825967861	geckodriver::marionette	INFO	Starting browser C:\Mozilla Firefox\firefox.exe
+1485825967910	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57078
+1485825970521	Marionette	INFO	Listening on port 57078
+1485825976471	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 8036] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
